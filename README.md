@@ -1,6 +1,12 @@
-# Mini-Challenge-W25
+#  Mini-Challenge-W25
+
+- **School:** University of Michigan-Flint
+- **Course:** Ethics and Bias in AI (ARI 515)
+- **Semester:** Winter 2025
+- **Lecturer:** Prof. Rania Khalsi 
 
 ## About the Challenge
+
 
 ## Background
 
