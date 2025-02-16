@@ -1,4 +1,4 @@
-#  Mini-Challenge-W25
+#  Mini-Challenge_W25
 
 - **School:** University of Michigan-Flint
 - **Course:** Ethics and Bias in AI (ARI 515)
