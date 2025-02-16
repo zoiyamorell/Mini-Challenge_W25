@@ -14,10 +14,14 @@
 ### Files
 ### Tools & Technologies
 ### Procedure
-- Download and preprocess the data. This includes grayscaling, making images the same size, getting rid of null values, balancing if need-be, and blurring/cropping images to ONLY include the lesion.
-- Make images black and white and figure out how to track contours
-- Run our finished dataset through a sample machine learning algorithm, adjust dataset as needed to ensure results are positive. Compare results between unprocessed, preprocessed, and contour datasets
-- Compile results, create a clean dataset on github with a dataset card, readme, example use, and our example machine learning model. Create a PowerPoint to speak on what we learned, results, etc. 
+
+- **Data Processing:** This step involves downloading open source data on cancer images and preprocessing the data. The pre-processing includes grayscaling, making images the same size, getting rid of null values, balancing if need-be, and blurring/cropping images to ONLY include the lesion.
+
+- **Contours and Binarization:** After preprocessing the dataset to include only grayscale images with lesion, this next step figures out the contours frm the grayscale images.
+  
+- **Algorithm Comparison:** This step is where the finished dataset is run through a sample machine learning algorithm, then the dataset is adjusted as needed to ensure results are positive. The results are then compared between unprocessed, preprocessed, and contour datasets
+  
+- **Github Organization & Presentation:** The results from the previous step are compiled for presentation 
 
 ## Discussion
 
