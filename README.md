@@ -1,12 +1,13 @@
 #  Mini-Challenge_W25
 
 - **School:** University of Michigan-Flint
-- **Course:** Ethics and Bias in AI (ARI 515)
+- **Course:** Ethics and Bias in AI 
 - **Semester:** Winter 2025
 - **Lecturer:** Prof. Rania Khalsi 
 
 ## About the Challenge
-This challenge is about bridging the bias in cancer image dataset which will inturn is used to build a machine learning model that will perform optimally across different skin colors. In this challenge the dataset is gotten from open-source, which goes through series of preprocessing to obtain resized greyscale images with contours. The results are then run through a sample machine learning algorithm and adjusted to give a positve accuracy.
+This is a class task assigned to the students of Ethics and Bias in (ARI 515). It was carried out a team by members of the class. 
+The mini-challenge is about bridging the bias in cancer image dataset which will inturn is used to build a machine learning model that will perform optimally across different skin colors. In this challenge the dataset is gotten from open-source, which goes through series of preprocessing to obtain resized greyscale images with contours. The results are then run through a sample machine learning algorithm and adjusted to give a positve accuracy.
 
 ## Background
 
